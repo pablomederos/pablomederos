@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pablo Gabriel Mederos</h1>
 <h3 align="center">Son un desarrollador .NET, C/C++ enfocado principalmente en el desarrollo de sistemas</h3>
+<h4 align="center">Aunque escribo código en el lenguaje que demande la ocasión</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pablomederos&label=Profile%20views&color=0e75b6&style=flat" alt="pablomederos" /> </p>
 
